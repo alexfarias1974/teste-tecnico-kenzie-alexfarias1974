@@ -1,11 +1,14 @@
+import TodoList from "./components/TodoList";
+import "./App.css";
 
-function App() {
+const App = () => {
 
   return (
     <div className="App">
-      <h1>Hey its working</h1>
+      <TodoList />
     </div>
-  )
-}
+  );
+};
 
-export default App
+export default App;
+
