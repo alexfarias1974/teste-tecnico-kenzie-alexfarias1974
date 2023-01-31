@@ -22,6 +22,8 @@ const TodoList = () => {
     setTodos([...todos, todo]);
     localStorage.setItem("localTodos", JSON.stringify([...todos, todo]))
   };
+
+  
   
   const deleteTodo = (id) => {
     let todoFiltered = todos.filter((todo) => todo.id !== id);
@@ -42,6 +44,8 @@ const TodoList = () => {
     }
   };
 
+  
+
   const completeTodo = (id) => {
     const checkedTodo = [...todos].map((todo) => {
       if (todo.id === id) {
@@ -58,7 +62,7 @@ const TodoList = () => {
       <Container maxWidth="sm">
         <h1>Lista de Afazeres</h1>
         <Form addTodo={addTodo} />
-        <List sx={{ 
+        <List id="todo-list" sx={{ 
           width: '100%', 
           maxWidth: 360,
           overflowY: "auto",
