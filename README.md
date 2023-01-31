@@ -48,7 +48,7 @@ O deploy da aplicação foi feito com o Vercel.\
 
 - HTML
 - CSS
-- React
+- React JS
 
 ### Libs
 
