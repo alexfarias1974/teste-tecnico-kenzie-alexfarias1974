@@ -27,11 +27,7 @@ Para iniciar o servidor da aplicação no modo de desenvolvimento execute o segu
 yarn dev
 ```
 
-Normalmente o [Vite](https://vitejs.dev/) já inicia a aplicação em uma nova aba no browser. Caso isso não ocorra, ainda no seu terminal do 
-Abra [http://localhost:3000](http://localhost:3000) para visualizar no seu browser.
-
-A página será recarregada quando você fizer alterações.\
-Você também pode ver erros de lint no console.
+Normalmente o [Vite](https://vitejs.dev/) já inicia a aplicação em uma nova aba no browser. Caso isso não ocorra, ainda no seu terminal, basta digitar a letra "o" (open) que uma nova aba será aberta com a aplicação. Caso queira iniciar manualmente, o [Vite](https://vitejs.dev/) utiliza como endereço padrão o (http://localhost:5173/).
 
 ## Layout
 
