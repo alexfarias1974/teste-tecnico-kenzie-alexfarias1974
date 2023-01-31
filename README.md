@@ -12,7 +12,7 @@ Este projeto oferece uma forma simples de administrar seus afazeres do dia-a-dia
 ## Build da Aplicação
 
 Este projeto foi inicializado com o poderoso build tool [Create Vite](https://vitejs.dev/).\
-<img src="https://github.com/alexfarias1974/teste-tecnico-kenzie-alexfarias1974/blob/main/vite.png" width="150px" />
+<img src="https://github.com/alexfarias1974/teste-tecnico-kenzie-alexfarias1974/blob/main/src/assets/vite.png" width="150px" />
 
 ## Scripts Disponíveis
 
