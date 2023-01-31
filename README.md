@@ -11,7 +11,8 @@ Este projeto oferece uma forma simples de administrar seus afazeres do dia-a-dia
 
 ## Build da Aplicação
 
-Este projeto foi inicializado com o poderoso build tool [Create Vite](https://vitejs.dev/).
+Este projeto foi inicializado com o poderoso build tool [Create Vite](https://vitejs.dev/).\
+<img src="https://github.com/alexfarias1974/teste-tecnico-kenzie-alexfarias1974/blob/main/vite.png" width="150px" />
 
 ## Scripts Disponíveis
 
@@ -26,7 +27,7 @@ Para iniciar o servidor da aplicação no modo de desenvolvimento execute o segu
 yarn dev
 ```
 
-Executa o aplicativo no modo de desenvolvimento.\
+Normalmente o [Vite](https://vitejs.dev/) já inicia a aplicação em uma nova aba no browser. Caso isso não ocorra, ainda no seu terminal do 
 Abra [http://localhost:3000](http://localhost:3000) para visualizar no seu browser.
 
 A página será recarregada quando você fizer alterações.\
