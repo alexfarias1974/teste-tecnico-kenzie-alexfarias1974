@@ -60,7 +60,11 @@ const EachTodo = ({ todo, deleteTodo, updateTodo, completeTodo }) => {
                 "completed" 
                 : 
                 ""} 
-                primary={todo.text} 
+                primary={todo.text.length > 60 
+                  ? 
+                  `${todo.text.slice(0, 57)}...` 
+                  : 
+                  todo.text} 
                 onClick={() => setOpenDialog(true)} 
             />
           </ListItemButton>
