@@ -6,13 +6,13 @@
 
 ## Sobre o projeto
 
-https://sprint1-m6-investments-calculator-alexfarias1974-m2g2.vercel.app/
+(https://teste-tecnico-kenzie-alexfarias1974.vercel.app/)
 
-Este projeto trás uma calculadora de antecipação de parcelas do cartão de crédito para auxiliar os lojistas que pretendem antecipar o dinheiro das vendas realizadas com cartão de crédito.
+Este projeto oferece uma forma simples de administrar seus afazeres do dia-a-dia através de uma todo list simples, porém completa, possibilitando o usuário adicionar tarefas, editar, excluir e marcar como concluídas, diminuindo a necessidade de portar uma agenda física full time.
 
-## Create React App
+## Build da Aplicação
 
-Este projeto foi inicializado com [Create React App](https://github.com/facebook/create-react-app).
+Este projeto foi inicializado com [Create Vite](https://github.com/facebook/create-react-app).
 
 ## Scripts Disponíveis
 
