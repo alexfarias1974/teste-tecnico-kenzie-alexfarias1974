@@ -6,25 +6,24 @@
 
 ## Sobre o projeto
 
+Este projeto oferece uma forma simples de administrar seus afazeres do dia-a-dia através de uma todo list simples, porém completa, possibilitando o usuário adicionar tarefas, editar, excluir e marcar como concluídas, diminuindo a necessidade de portar uma agenda física full time.\
 (https://teste-tecnico-kenzie-alexfarias1974.vercel.app/)
-
-Este projeto oferece uma forma simples de administrar seus afazeres do dia-a-dia através de uma todo list simples, porém completa, possibilitando o usuário adicionar tarefas, editar, excluir e marcar como concluídas, diminuindo a necessidade de portar uma agenda física full time.
 
 ## Build da Aplicação
 
-Este projeto foi inicializado com [Create Vite](https://github.com/facebook/create-react-app).
+Este projeto foi inicializado com o poderoso build tool [Create Vite](https://vitejs.dev/).
 
 ## Scripts Disponíveis
 
-No diretório do projeto, você pode executar:
+Ao realizar o clone, no diretório principal do projeto, você pode executar o comando abaixo para instalar localmente as bibliotecas necessárias para executar corretamente a aplicação:
 
 ```bash
 yarn ou yarn install
 ```
-Instala localmente as bibliotecas necessárias para executar corretamente a aplicação.
+Para iniciar o servidor da aplicação no modo de desenvolvimento execute o seguinte comando:
 
 ```bash
-yarn start
+yarn dev
 ```
 
 Executa o aplicativo no modo de desenvolvimento.\
