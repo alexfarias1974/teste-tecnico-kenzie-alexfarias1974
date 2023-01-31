@@ -31,12 +31,16 @@ Normalmente o [Vite](https://vitejs.dev/) já inicia a aplicação em uma nova a
 
 ## Layout
 
-![WEB](https://github.com/alexfarias1974/sprint1-m6-investments-calculator-alexfarias1974/blob/main/investment-calculator/investments_calculator.png)
+<img src="https://github.com/alexfarias1974/teste-tecnico-kenzie-alexfarias1974/blob/main/src/assets/picture1.png" width=400px />
+<img src="https://github.com/alexfarias1974/teste-tecnico-kenzie-alexfarias1974/blob/main/src/assets/picture2.png" width=400px />
+<img src="https://github.com/alexfarias1974/teste-tecnico-kenzie-alexfarias1974/blob/main/src/assets/picture3.png" width=400px />
+<img src="https://github.com/alexfarias1974/teste-tecnico-kenzie-alexfarias1974/blob/main/src/assets/picture4.png" width=400px />
+
 
 ## Deploy
 
 O deploy da aplicação foi feito com o Vercel.\
-https://sprint1-m6-investments-calculator-alexfarias1974-m2g2.vercel.app/
+(https://teste-tecnico-kenzie-alexfarias1974.vercel.app/)
 
 ## Stacks utilizadas
 
@@ -46,10 +50,9 @@ https://sprint1-m6-investments-calculator-alexfarias1974-m2g2.vercel.app/
 
 ### Libs
 
-- React Hook Form
-- React Query
-- React Router Dom
-- Axios
+- Vitest e Testing Library para realização de testes automatizados
+- Material UI para os componentes do form
+- Styled Components
 
 ## Autor
 
