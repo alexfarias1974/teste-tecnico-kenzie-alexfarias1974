@@ -21,14 +21,16 @@ Ao realizar o clone, no diretório principal do projeto, você pode executar o c
 ```bash
 yarn ou yarn install
 ```
-Para iniciar o servidor da aplicação no modo de desenvolvimento execute o seguinte comando:
+Para iniciar o servidor da aplicação no modo de desenvolvimento execute o comando abaixo. Normalmente o [Vite](https://vitejs.dev/) já inicia a aplicação em uma nova aba no browser. Caso isso não ocorra, ainda no seu terminal, basta digitar a letra "o" (open) que uma nova aba será aberta com a aplicação. Caso queira iniciar manualmente, o [Vite](https://vitejs.dev/) utiliza como endereço padrão o (http://localhost:5173/):
 
 ```bash
 yarn dev
 ```
+Para realizar os testes automatizados, execute o seguinte comando:
 
-Normalmente o [Vite](https://vitejs.dev/) já inicia a aplicação em uma nova aba no browser. Caso isso não ocorra, ainda no seu terminal, basta digitar a letra "o" (open) que uma nova aba será aberta com a aplicação. Caso queira iniciar manualmente, o [Vite](https://vitejs.dev/) utiliza como endereço padrão o (http://localhost:5173/).
-
+```bash
+yarn test ou yarn vitest
+```
 ## Layout
 
 <img src="https://github.com/alexfarias1974/teste-tecnico-kenzie-alexfarias1974/blob/main/src/assets/picture1.png" width=400px />
