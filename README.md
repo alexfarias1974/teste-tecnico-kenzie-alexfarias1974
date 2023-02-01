@@ -58,5 +58,5 @@ https://teste-tecnico-kenzie-alexfarias1974.vercel.app/
 
 ## Autor
 
-### Alexandre Farias\
+### Alexandre Farias 
 www.linkedin.com/in/alexandre-farias-06b78362
