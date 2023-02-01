@@ -21,7 +21,7 @@ Ao realizar o clone, no diretório principal do projeto, você pode executar o c
 ```bash
 yarn ou yarn install
 ```
-Para iniciar o servidor da aplicação no modo de desenvolvimento execute o comando abaixo. Normalmente o [Vite](https://vitejs.dev/) já inicia a aplicação em uma nova aba no browser. Caso isso não ocorra, ainda no seu terminal, basta digitar a letra "o" (open) que uma nova aba será aberta com a aplicação. Caso queira iniciar manualmente, o [Vite](https://vitejs.dev/) utiliza como endereço padrão o (http://localhost:5173/):
+Para iniciar o servidor da aplicação no modo de desenvolvimento execute o comando abaixo. Normalmente o [Vite](https://vitejs.dev/) já inicia a aplicação em uma nova aba no browser. Caso isso não ocorra, ainda no seu terminal, basta digitar a letra `"o"` (open) que uma nova aba será aberta com a aplicação. Caso queira iniciar manualmente, o [Vite](https://vitejs.dev/) utiliza como endereço padrão o (http://localhost:5173/):
 
 ```bash
 yarn dev
@@ -46,17 +46,17 @@ O deploy da aplicação foi feito com o Vercel.\
 
 ## Stacks utilizadas
 
-- HTML
-- CSS
-- React JS
+- `HTML`
+- `CSS`
+- `React JS`
 
 ### Libs
 
-- Vitest e Testing Library para realização de testes automatizados
-- Material UI para os componentes do form
-- Styled Components
+- `Vitest` e `Testing Library` para realização de testes automatizados
+- `Material UI` para os componentes do form
+- `Styled Components`
 
 ## Autor
 
-Alexandre Farias\
+###Alexandre Farias\
 www.linkedin.com/in/alexandre-farias-06b78362
