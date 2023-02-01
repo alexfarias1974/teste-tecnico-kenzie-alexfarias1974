@@ -55,6 +55,7 @@ https://teste-tecnico-kenzie-alexfarias1974.vercel.app/
 - `Vitest` e `Testing Library` para realização de testes automatizados
 - `Material UI` para os componentes do form
 - `Styled Components`
+- `Sweet Alert` para as mensagens de erro
 
 ## Autor
 
