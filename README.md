@@ -7,7 +7,7 @@
 ## Sobre o projeto
 
 Este projeto oferece uma forma simples de administrar seus afazeres do dia-a-dia através de uma todo list simples, porém completa, possibilitando o usuário adicionar tarefas, editar, excluir e marcar como concluídas, diminuindo a necessidade de portar uma agenda física full time.\
-(https://teste-tecnico-kenzie-alexfarias1974.vercel.app/)
+https://teste-tecnico-kenzie-alexfarias1974.vercel.app/
 
 ## Build da Aplicação
 
@@ -21,7 +21,7 @@ Ao realizar o clone, no diretório principal do projeto, você pode executar o c
 ```bash
 yarn ou yarn install
 ```
-Para iniciar o servidor da aplicação no modo de desenvolvimento execute o comando abaixo. Normalmente o [Vite](https://vitejs.dev/) já inicia a aplicação em uma nova aba no browser. Caso isso não ocorra, ainda no seu terminal, basta digitar a letra `"o"` (open) que uma nova aba será aberta com a aplicação. Caso queira iniciar manualmente, o [Vite](https://vitejs.dev/) utiliza como endereço padrão o (http://localhost:5173/):
+Para iniciar o servidor da aplicação no modo de desenvolvimento execute o comando abaixo. Normalmente o [Vite](https://vitejs.dev/) já inicia a aplicação em uma nova aba no browser. Caso isso não ocorra, ainda no seu terminal, basta digitar a letra `"o"` (open) que uma nova aba será aberta com a aplicação. Caso queira iniciar manualmente, o [Vite](https://vitejs.dev/) utiliza como endereço padrão o http://localhost:5173/:
 
 ```bash
 yarn dev
@@ -41,8 +41,8 @@ yarn test ou yarn vitest
 
 ## Deploy
 
-O deploy da aplicação foi feito com o Vercel.\
-(https://teste-tecnico-kenzie-alexfarias1974.vercel.app/)
+O deploy da aplicação foi feito com o `Vercel`.\
+https://teste-tecnico-kenzie-alexfarias1974.vercel.app/
 
 ## Stacks utilizadas
 
